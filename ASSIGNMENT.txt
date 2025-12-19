@@ -1,0 +1,22 @@
+ 1. Explain the fundamental data types in Dart (int, double, String, List, Map, etc.) and their uses.
+=> That a data type is use for the declare a value in the variable that a many type numberic,string,point also.
+=>That data type are called a collection.
+
+ 2. Describe control structures in Dart with examples of if, else, for, while, and switch.
+=>if: Used to check a condition.
+=>else: Runs one code if true, another if false.
+=>for: Runs one code if true, another if false.
+=>while: Used when you don’t know how many times.
+=>switch: Check multiple conditions.
+
+ 3. Explain object-oriented programming concepts in Dart, such as classes, inheritance, polymorphism, and interfaces.
+=>classs: That is a collection of the multiple object.
+=>inheritance: when one object acquire all the performance and the behivor of the parent class.  
+=>polymorphism: many way to perform anything.
+=>interface: implement are the interface opition.
+
+ 4. Describe asynchronous programming in Dart, including Future, async, await, and Stream.
+=>future: That keyword are use to declare value to time duration.
+=>async: This function may take time
+=>await: This funcation wait for the result before going to the next line.
+=>stream: Gives values many time
